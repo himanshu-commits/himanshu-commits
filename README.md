@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Himanshu Gupta</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate AI Engineer from Germany</h3>
 
 <img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 
@@ -8,17 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **exploratory data analysis , Tableau and how to communicate effectively with stackholders**
+- 🌱 I have 2+ Year of Industry Experience in AI Domain
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/Himanshu_gupta](https://www.datascienceportfol.io/Himanshu_gupta)
+- 💬 Ask me about **Data science , Large Language Models , Machine Learning , Generative AI**
 
-- 💬 Ask me about **Data science , ETL tools , Data analytics**
+- 📫 How to reach me **himanshu.gupta@tu-ilmenau.de**
 
-- 📫 How to reach me **himanshu.code11@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-AEqMICAHBJql7damwo2WSQC8av6i5ie/view?usp=sharing](https://drive.google.com/file/d/1-AEqMICAHBJql7damwo2WSQC8av6i5ie/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny**
+- I love working independently
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
