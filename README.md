@@ -10,6 +10,10 @@
 
 - 🌱 I have 2+ Year of Industry Experience in AI Domain
 
+- ### 🔧 Open Source Contributions
+
+- **[facebookresearch/faiss](https://github.com/facebookresearch/faiss/commit/247527b3490d5a4019ecb4aa6062de71dce1a81a)** — Fixed a PEP 561 type stub bug in `reconstruct_n()` causing incorrect type resolution for default `faiss-cpu` (numpy) calls. Reviewed by Meta engineering, shipped in v1.15.0.
+
 - 💬 Ask me about **Data science , Large Language Models , Machine Learning , Generative AI**
 
 - 📫 How to reach me **himanshu.gupta@tu-ilmenau.de**
